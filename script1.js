@@ -10,3 +10,7 @@ for (let i = 1; i <= 10; i++) {
 }
     console.log("Сумма четных:", sumEvens);
     console.log("Сумма нечетных:", sumOdds);
+
+    console.log (тест
+        
+    )
